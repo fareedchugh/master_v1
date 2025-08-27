@@ -23,3 +23,4 @@ print("Data exported successfully to oracle_data.csv")
 
 # Close the connection
 connection.close()
+#commented on v1
